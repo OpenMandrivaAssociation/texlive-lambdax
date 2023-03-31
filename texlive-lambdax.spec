@@ -1,6 +1,6 @@
 Name:		texlive-lambdax
 Version:	60278
-Release:	1
+Release:	2
 Summary:	Use Lambda expression within LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lambdax
